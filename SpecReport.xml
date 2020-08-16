@@ -1,0 +1,602 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Top>
+    <val title="Proveril"/>
+    <val title="Nach_Sektora"/>
+    <val title="Normo_Kontr"/>
+    <val title="Utv"/>
+    <val title="Lit"/>
+    <val title="Obozn_izd">ТЕСТ.468347.038</val>
+    <val title="Naimen_izd">Плата Узла НК</val>
+    <val title="Perv_primen">ИВЯФ.468347.037</val>
+    <val title="Razrabotal">Яковлев Иван Михайлович (yakovlev_im)</val>
+    <val title="Proveril">Иванов А.А.</val>
+    <val title="Normo_Kontr">Петров П.П.</val>
+    <val title="Utv">Сидоров А.А.</val>
+    <val title="Name_pribor">Прибор АА-1233</val>
+    <val title="Logo">file:/C:/Siemens/IAS11/rac/CSOrganizationLogo/logo.jpg</val>
+    <val title="Org"/>
+    <val title="CRC">CBDD414A</val>
+  </Top>
+  <Children>
+    <Razdel Name="Прочие изделия" Num="5">
+      <Child>
+        <val title="Pos">20</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Конденсатор К53-68 "D"-20 В-47 мкФ ±10% АЖЯР.673546.007ТУ</val>
+        <val title="Kol">4</val>
+        <val title="Prim">C85, C110-C112</val>
+      </Child>
+      <Child>
+        <val title="Pos">33</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Переключатель DS1040-04RN -</val>
+        <val title="Kol">4</val>
+        <val title="Prim">SA1-SA4</val>
+      </Child>
+      <Child>
+        <val title="Pos">34</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор 3266W-1-202LF (2кОм) _</val>
+        <val title="Kol">8</val>
+        <val title="Prim">R61, R62, R69, R71, R73, R74, R81, R83; Bourns</val>
+      </Child>
+      <Child>
+        <val title="Pos">47</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор Р1-12-0,25-100 Ом±1%-М-"А" ШКАБ.434110.002ТУ</val>
+        <val title="Kol">2</val>
+        <val title="Prim">R91, R92</val>
+      </Child>
+      <Child>
+        <val title="Pos">45</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор Р1-12-0,1ум-300 Ом±5%-М-"А" ШКАБ.434110.002ТУ</val>
+        <val title="Kol">24</val>
+        <val title="Prim">R37-R60</val>
+      </Child>
+      <Child>
+        <val title="Pos">18</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Конденсатор К53-68 "B"-10 В-6,8 мкФ ± 10% АЖЯР.673546.007 ТУ</val>
+        <val title="Kol">16</val>
+        <val title="Prim">C41, C43, C44, C48, C51, C52, C56, C59, C60, C62, C63, C67, C70, C71, C75, C78</val>
+      </Child>
+      <Child>
+        <val title="Pos">19</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Конденсатор К53-68 "D"-16 В-100 мкФ ±10% АЖЯР.673546.007ТУ</val>
+        <val title="Kol">6</val>
+        <val title="Prim">C1, C3, C15-C18</val>
+      </Child>
+      <Child>
+        <val title="Pos">48</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор Р2-105-0,75-0,01 Ом±1% "А" РКМУ.434150.001 ТУ</val>
+        <val title="Kol">10</val>
+        <val title="Prim">R9*, R10*, R11**-R14**, R15*-R18*</val>
+      </Child>
+      <Child>
+        <val title="Pos">36</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор Р1-12-0,125-100 кОм±1%-М-"А" ШКАБ.434110.002ТУ</val>
+        <val title="Kol">1</val>
+        <val title="Prim">R5</val>
+      </Child>
+      <Child>
+        <val title="Pos">38</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор Р1-12-0,125-240 кОм±1%-М-"А" ШКАБ.434110.002ТУ</val>
+        <val title="Kol">1</val>
+        <val title="Prim">R4</val>
+      </Child>
+      <Child>
+        <val title="Pos">43</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор Р1-12-0,1ум-10 кОм±1%-М-"А" ШКАБ.434110.002ТУ</val>
+        <val title="Kol">2</val>
+        <val title="Prim">R19, R25</val>
+      </Child>
+      <Child>
+        <val title="Pos">28</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.001000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Микросхема 5559ИН28У АЕЯР.431230.882ТУ</val>
+        <val title="Kol">2</val>
+        <val title="Prim">D20, D21</val>
+      </Child>
+      <Child>
+        <val title="Pos">27</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Микросхема 1417УД2901В ВК АЕЯР.431130.145-03ТУ</val>
+        <val title="Kol">8</val>
+        <val title="Prim">D11-D14, D16-D19; Производитель</val>
+      </Child>
+      <Child>
+        <val title="Pos">51</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Соединитель PLS-3 (DS1021-1x3) -</val>
+        <val title="Kol">3</val>
+        <val title="Prim">X11, X41, X42; Connfly</val>
+      </Child>
+      <Child>
+        <val title="Pos">11</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Генератор ГК365-С-15ГР-2-3-40М АДКШ.433526.005 ТУ</val>
+        <val title="Kol">1</val>
+        <val title="Prim">G1; test</val>
+      </Child>
+      <Child>
+        <val title="Pos">42</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор Р1-12-0,1ум-10 Ом±5%-М-"А" ШКАБ.434110.002ТУ</val>
+        <val title="Kol">4</val>
+        <val title="Prim">R87-R90</val>
+      </Child>
+      <Child>
+        <val title="Pos">13</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Конденсатор К10-79-10В-0.1 мкФ+80%-20%-Н90 АЖЯР.673511.004ТУ</val>
+        <val title="Kol">64</val>
+        <val title="Prim">C27-C40, C42, C45-C47, C49, C50, C57, C58, C61, C64-C66, C68, C69, C76, C77, C79-C84, C86-C109, C113-C116; AAAA</val>
+      </Child>
+      <Child>
+        <val title="Pos">17</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Конденсатор К10-79-50В-470 пФ±5%-МП0 АЖЯР.673511.004ТУ</val>
+        <val title="Kol">2</val>
+        <val title="Prim">C6, C9</val>
+      </Child>
+      <Child>
+        <val title="Pos">16</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Конденсатор К10-79-25В-2.2мкФ+80%-20%-Н90 АЖЯР.673511.004ТУ</val>
+        <val title="Kol">2</val>
+        <val title="Prim">C2, C4</val>
+      </Child>
+      <Child>
+        <val title="Pos">24</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.003000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Микродроссели МДГ3-6800 КВШУ.670114.001ТУ</val>
+        <val title="Kol">1</val>
+        <val title="Prim">L2</val>
+      </Child>
+      <Child>
+        <val title="Pos">14</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Конденсатор К10-79-10В-22 мкФ+80%-20%-Н90 АЖЯР.673511.004ТУ</val>
+        <val title="Kol">8</val>
+        <val title="Prim">C19-C26</val>
+      </Child>
+      <Child>
+        <val title="Pos">30</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Kol">1</val>
+        <val title="Prim">D3</val>
+      </Child>
+      <Child>
+        <val title="Pos">46</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор Р1-12-0,1ум-4,7 кОм±1%-М-"А" ШКАБ.434110.002ТУ</val>
+        <val title="Kol">65</val>
+        <val title="Prim">R21-R24, R63**-R66**, R75**-R78**, R85, R86, R93-R143</val>
+      </Child>
+      <Child>
+        <val title="Pos">22</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Микродроссели МДГ3-4700 КВШУ.670114.001ТУ</val>
+        <val title="Kol">4</val>
+        <val title="Prim">L3-L6</val>
+      </Child>
+      <Child>
+        <val title="Pos">37</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор Р1-12-0,125-120 кОм±1%-М-"А" ШКАБ.434110.002ТУ</val>
+        <val title="Kol">1</val>
+        <val title="Prim">R2</val>
+      </Child>
+      <Child>
+        <val title="Pos">40</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор Р1-12-0,125-49,9 кОм±1%-М-"А" ШКАБ.434110.002ТУ</val>
+        <val title="Kol">2</val>
+        <val title="Prim">R6, R8; Производитель</val>
+      </Child>
+      <Child>
+        <val title="Pos">15</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Конденсатор К10-79-25В-1.0 мкФ±20%-Н30 АЖЯР.673511.004ТУ</val>
+        <val title="Kol">10</val>
+        <val title="Prim">C5, C7, C8, C10, C53-C55, C72-C74</val>
+      </Child>
+      <Child>
+        <val title="Pos">39</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор Р1-12-0,125-31,6 кОм±1%-М-"А" ШКАБ.434110.002ТУ</val>
+        <val title="Kol">1</val>
+        <val title="Prim">R7</val>
+      </Child>
+      <Child>
+        <val title="Pos">49</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Соединитель DS1013-10S (BHS-10) -</val>
+        <val title="Kol">1</val>
+        <val title="Prim">X7; Connfly</val>
+      </Child>
+      <Child>
+        <val title="Pos">21</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Конденсатор К53-68 "E"-10 В-330 мкФ ±10% АЖЯР.673546.007ТУ</val>
+        <val title="Kol">2</val>
+        <val title="Prim">C13, C14</val>
+      </Child>
+      <Child>
+        <val title="Pos">23</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.003000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Микродроссели МДГ3-6000 КВШУ.670114.001ТУ</val>
+        <val title="Kol">1</val>
+        <val title="Prim">L1</val>
+      </Child>
+      <Child>
+        <val title="Pos">44</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор Р1-12-0,1ум-20 Ом±1%-М-"А" ШКАБ.434110.002ТУ</val>
+        <val title="Kol">1</val>
+        <val title="Prim">R32</val>
+      </Child>
+      <Child>
+        <val title="Pos">26</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Микросхема 1310ПН1У АЕЯР.431320.670ТУ</val>
+        <val title="Kol">2</val>
+        <val title="Prim">D1, D2</val>
+      </Child>
+      <Child>
+        <val title="Pos">12</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Конденсатор К10-79-100В-0.01 мкФ±20%-Н30 АЖЯР.673511.004ТУ</val>
+        <val title="Kol">2</val>
+        <val title="Prim">C11, C12; test555</val>
+      </Child>
+      <Child>
+        <val title="Pos">31</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Микросхема 5576РС1У АЕЯР.431210.710ТУ</val>
+        <val title="Kol">1</val>
+        <val title="Prim">D4</val>
+      </Child>
+      <Child>
+        <val title="Pos">25</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Микросхема 1259ПН2У АЕЯР.431320.304ТУ</val>
+        <val title="Kol">2</val>
+        <val title="Prim">D9, D10</val>
+      </Child>
+      <Child>
+        <val title="Pos">32</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.021000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Микросхема 5576ХС6Т АЕЯР.431260.888ТУ</val>
+        <val title="Kol">1</val>
+        <val title="Prim">D5</val>
+      </Child>
+      <Child>
+        <val title="Pos">29</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Микросхема 5572ИН2АУ АЕЯР.431230.913ТУ</val>
+        <val title="Kol">5</val>
+        <val title="Prim">D6-D8, D22, D23</val>
+      </Child>
+      <Child>
+        <val title="Pos">41</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор Р1-12-0,1ум-1 кОм ± 5% -М-"А" ШКАБ.434110.002ТУ</val>
+        <val title="Kol">19</val>
+        <val title="Prim">R20, R26-R31, R33-R36, R67**, R68**, R70**, R72**, R79**, R80**, R82**, R84**</val>
+      </Child>
+      <Child>
+        <val title="Pos">50</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Соединитель PLS-2 (DS1021-1x2) -</val>
+        <val title="Kol">39</val>
+        <val title="Prim">X1-X6, X8-X10, X12-X40, X43; Connfly</val>
+      </Child>
+      <Child>
+        <val title="Pos">35</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="NumRazdel"/>
+        <val title="Naimen0"/>
+        <val title="isComplect">false</val>
+        <val title="Naimen1">Резистор Р1-12-0,125-10 Ом ± 5% -М-"А" ШКАБ.434110.002ТУ</val>
+        <val title="Kol">2</val>
+        <val title="Prim">R1, R3</val>
+      </Child>
+    </Razdel>
+    <Razdel Name="Материалы" Num="6">
+      <Child>
+        <val title="Pos">54</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="Naimen1">ЛШМС-105 / тип 123 / 0,06</val>
+        <val title="Naimen3"/>
+        <val title="Naimen4"/>
+        <val title="Naimen2">ТУ16-90</val>
+        <val title="Naimen3">И37.0012.002ТУ^10x10</val>
+        <val title="MatType">CSB2_K1_GeoMat</val>
+        <val title="Kol">0</val>
+        <val title="Prim"/>
+        <val title="EdIzm">шт</val>
+      </Child>
+      <Child>
+        <val title="Pos">59</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0</val>
+        <val title="Naimen1">Проволока ММ-0,12</val>
+        <val title="Naimen3"/>
+        <val title="Naimen4"/>
+        <val title="Naimen2">ТУ 16-705.492-2005</val>
+        <val title="MatType">CSB2_K1_Material</val>
+        <val title="Kol">0,55</val>
+        <val title="Prim"/>
+        <val title="EdIzm">м</val>
+      </Child>
+      <Child>
+        <val title="Pos">57</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="Naimen1">ЛШМС-105 / тип 123 / 0,12</val>
+        <val title="Naimen3"/>
+        <val title="Naimen4"/>
+        <val title="Naimen2">ТУ16-90</val>
+        <val title="Naimen3">И37.0012.002ТУ^7x9</val>
+        <val title="MatType">CSB2_K1_GeoMat</val>
+        <val title="Kol">0</val>
+        <val title="Prim"/>
+        <val title="EdIzm">шт</val>
+      </Child>
+      <Child>
+        <val title="Pos">56</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="Naimen1">ЛШМС-105 / тип 123 / 0,12</val>
+        <val title="Naimen3"/>
+        <val title="Naimen4"/>
+        <val title="Naimen2">ТУ16-90</val>
+        <val title="Naimen3">И37.0012.002ТУ^36x36</val>
+        <val title="MatType">CSB2_K1_GeoMat</val>
+        <val title="Kol">0</val>
+        <val title="Prim"/>
+        <val title="EdIzm">шт</val>
+      </Child>
+      <Child>
+        <val title="Pos">55</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1">0.000000</val>
+        <val title="Naimen1">ЛШМС-105 / тип 123 / 0,06</val>
+        <val title="Naimen3"/>
+        <val title="Naimen4"/>
+        <val title="Naimen2">ТУ16-90</val>
+        <val title="Naimen3">И37.0012.002ТУ^15x15</val>
+        <val title="MatType">CSB2_K1_GeoMat</val>
+        <val title="Kol">0</val>
+        <val title="Prim"/>
+        <val title="EdIzm">шт</val>
+      </Child>
+    </Razdel>
+    <Razdel Name="Сборочные единицы" Num="2">
+      <Child>
+        <val title="Pos">1</val>
+        <val title="OptionsDelivery"/>
+        <val title="Format">A4</val>
+        <val title="Obozn">ИВЯФ.045321.984</val>
+        <val title="Naimen0">Печатная плата</val>
+        <val title="Kol">1</val>
+        <val title="Prim"/>
+      </Child>
+      <Child>
+        <val title="Pos">3</val>
+        <val title="OptionsDelivery"/>
+        <val title="Format">A4</val>
+        <val title="Obozn">ИВЯФ.687264.01345</val>
+        <val title="Naimen0">Плата печатная</val>
+        <val title="Kol">1</val>
+        <val title="Prim">Входят покуп.</val>
+      </Child>
+      <Child>
+        <val title="Pos">2</val>
+        <val title="OptionsDelivery"/>
+        <val title="Format">A4</val>
+        <val title="Obozn">ИВЯФ.431169.004</val>
+        <val title="Naimen0">Коммутатор НК</val>
+        <val title="Kol">1</val>
+        <val title="Prim">D15</val>
+      </Child>
+    </Razdel>
+    <Razdel Name="Документация" Num="0">
+      <Child>
+        <val title="Format">-</val>
+        <val title="Obozn">ТЕСТ.010101.010 П1М</val>
+        <val title="Naimen0">Тестирование спецификации</val>
+        <val title="Order">0</val>
+        <val title="Prim"/>
+      </Child>
+      <Child>
+        <val title="Format">*)</val>
+        <val title="Obozn">ТЕСТ.468356.764</val>
+        <val title="Naimen0">Второй тестовый док</val>
+        <val title="Order">1</val>
+        <val title="Prim">*) A4, А1</val>
+      </Child>
+    </Razdel>
+    <Razdel Name="Детали" Num="3">
+      <Child>
+        <val title="Pos">7</val>
+        <val title="OptionsDelivery"/>
+        <val title="Massa1"/>
+        <val title="TechData"/>
+        <val title="Format">A4</val>
+        <val title="Obozn">ИЮ7.969.722-01</val>
+        <val title="Naimen0">Прокладка ОСТ 92-4794-87</val>
+        <val title="Kol">8</val>
+        <val title="Prim"/>
+      </Child>
+    </Razdel>
+  </Children>
+</root>
